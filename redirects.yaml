@@ -1,3 +1,0 @@
-'/test/':
-  to: 'https://helloredo.redoc.ly/alexdocs/'
-  type: 301

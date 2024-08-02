@@ -1,3 +1,3 @@
-'/custody.md/':
-  to: 'https://docs.ripple.com/custody'
+'/alexdocs.md/':
+  to: 'https://helloredo.redoc.ly/alexdocs'
   type: 301
